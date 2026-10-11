@@ -21,9 +21,9 @@ We identify **Covariance-Estimation-Induced Weight Collapse (CEIWC)**: in data-s
 
 The 31 imbalanced datasets are from the KEEL and UCI repositories. Smaller datasets are included in `data/`. Larger datasets must be downloaded separately:
 
-- **creditcard.csv**: [Kaggle Credit Card Fraud](https://www.kaggle.com/mlg-ulb/creditcardfraud) (126 MB)
-- **covtype_4vs_2.csv**: UCI Covertype
-- **cifar-10-python.tar.gz**: [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) (170 MB)
+- creditcard.csv: [Kaggle Credit Card Fraud](https://www.kaggle.com/mlg-ulb/creditcardfraud) (126 MB)
+- covtype_4vs_2.csv: UCI Covertype
+- cifar-10-python.tar.gz: [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) (170 MB)
 
 ## Key Results
 
